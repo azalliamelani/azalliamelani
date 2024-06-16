@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🎀 About Me:
 🌱 I’m currently learning SQL, Python, Tensorflow<br>📫 How to reach me azalliamelani@gmail.com
 
 
